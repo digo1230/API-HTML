@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nome": "AUTOMÓVEIS",
+    "lotes": 2
+  },
+  {
+    "id": 2,
+    "nome": "IMÓVEIS",
+    "lotes": 27
+  },
+  {
+    "id": 3,
+    "nome": "MÁQUINAS E EQUIPAMENTOS",
+    "lotes": 6
+  },
+  {
+    "id": 5,
+    "nome": "MÓVEIS / ELETRÔNICOS",
+    "lotes": 2
+  },
+  {
+    "id": 13,
+    "nome": "OUTROS",
+    "lotes": 1
+  }
+]
